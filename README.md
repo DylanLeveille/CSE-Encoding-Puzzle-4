@@ -2,7 +2,6 @@
 
 Puzzle link: https://www.cse-cst.gc.ca/en/puzzles-enigmes/puzzle-enigme-4
 
-
-<li>
-<ol>extract hex</ol>
-</li>
+<ol type = "1">
+<li> extract hex</li>
+</ol>
