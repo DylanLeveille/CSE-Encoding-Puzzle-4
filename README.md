@@ -3,6 +3,6 @@
 Puzzle link: https://www.cse-cst.gc.ca/en/puzzles-enigmes/puzzle-enigme-4
 
 
-<ls>
-<ul>extract hex</ul>
-</ls>
+<li>
+<ol>extract hex</ol>
+</li>
